@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WykrywanieIncludow": {
+      "commandName": "Project",
+      "commandLineArgs": "plik.txt"
+    }
+  }
+}
